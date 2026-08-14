@@ -1,46 +1,45 @@
-Hi, I'm Srija Amula 👋
+# Hi, I'm Srija Amula 👋
 
-Business Analyst | CRM & MarTech | Customer Lifecycle | SQL | Power BI | Agile | UAT
+### Business Analyst | CRM & MarTech | Customer Lifecycle | SQL | Power BI
 
-Business Analyst with nearly 5 years of experience at Accenture, supporting CRM, MarTech, customer lifecycle, and customer-engagement initiatives.
+Business Analyst with nearly 5 years of experience supporting **CRM, MarTech, customer lifecycle, and customer engagement initiatives**.
 
-Facilitated 40+ stakeholder workshops
+I have experience in requirements gathering, stakeholder collaboration, customer journey mapping, process improvement, customer segmentation, campaign analysis, SQL reporting, Power BI dashboards, Agile delivery, UAT, and release validation.
 
-Created 150+ user stories, BRDs, FRDs, process flows, and acceptance criteria
+## About Me
 
-Performed impact analysis for 60+ enhancements
+* 💼 Nearly 5 years of Business Analyst experience
+* 📊 Experience in CRM, MarTech and customer lifecycle initiatives
+* 🤝 Worked with Marketing, Product, Technology, Growth and Development teams
+* 📝 Conducted 40+ stakeholder workshops
+* 📋 Created 150+ user stories, BRDs, FRDs, process flows and acceptance criteria
+* 🔍 Performed impact analysis for 60+ enhancements
+* 📈 Experienced with SQL, Power BI and Excel reporting
+* 🧪 Supported UAT, release planning and production validation
+* 📍 Based in Dubai, UAE
 
-Worked on customer journeys, segmentation, campaign analysis, A/B testing documentation, and landing-page enhancements
+## Skills
 
-Built SQL queries, Power BI dashboards, and Excel reports
+**Business Analysis:** Requirements Gathering, BRD, FRD, User Stories, Acceptance Criteria, Process Mapping, Impact Analysis, UAT
 
-Supported Agile delivery, UAT, release planning, production validation, and change management
+**CRM & MarTech:** CRM, Customer Lifecycle Management, Customer Journey Mapping, Customer Segmentation, Campaign Analysis, Customer Engagement
 
-Microsoft PL-900 and SC-900 certified
+**Data & Reporting:** SQL, Power BI, Microsoft Excel, KPI Reporting
 
-Based in Dubai, UAE
+**Project Delivery:** Agile Scrum, Stakeholder Management, Cross-functional Collaboration, Release Planning, Change Management
 
-Featured Projects
+**Tools:** SQL, Power BI, Jira, Microsoft Excel
 
-MarTech Campaign Optimization & Customer Lifecycle Transformation
+## Portfolio Projects
 
-Experience-aligned BA case study covering CRM requirements, customer journeys, segmentation, campaign analytics, process improvement, SQL, dashboards, APIs, Agile and UAT.
+Portfolio projects covering:
 
-E-commerce Conversion & Customer Experience Improvement
+* 📊 MarTech Campaign Optimization & Customer Lifecycle Transformation
+* 🛒 E-commerce Conversion & Customer Experience Improvement
+* 💰 Finance Revenue Forecasting & Month-End Controls
 
-Portfolio simulation applying customer-journey, funnel, UX, SQL, requirements, API and testing skills to checkout conversion.
+> Portfolio datasets and case-study scenarios are synthetic and do not contain confidential employer or client information.
 
-Finance Revenue Forecasting & Month-End Controls
+---
 
-Portfolio simulation applying BA, SQL, process, controls, reporting, integration and UAT skills to a finance workflow.
-
-Core Stack
-
-Business Analysis CRM MarTech Customer Lifecycle Requirements BRD FRD User Stories Process Mapping SQL Power BI Excel Jira Agile UAT Postman
-
-Contact
-
-Email: srijaamula@gmail.com
-Location: Dubai, UAE
-
-Portfolio data and simulated case-study results are synthetic. No confidential employer or client information is included.
+### Business Analyst | CRM | MarTech | SQL | Power BI | Agile | UAT
