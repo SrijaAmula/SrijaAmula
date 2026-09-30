@@ -2,13 +2,13 @@
 
 ### Business Analyst | CRM & MarTech | Customer Lifecycle | SQL | Power BI
 
-Business Analyst with nearly 5 years of experience supporting **CRM, MarTech, customer lifecycle, and customer engagement initiatives**.
+Business Analyst with 5 years of experience supporting **CRM, MarTech, customer lifecycle, and customer engagement initiatives**.
 
 I have experience in requirements gathering, stakeholder collaboration, customer journey mapping, process improvement, customer segmentation, campaign analysis, SQL reporting, Power BI dashboards, Agile delivery, UAT, and release validation.
 
 ## About Me
 
-* 💼 Nearly 5 years of Business Analyst experience
+* 💼 5 years of Business Analyst experience
 * 📊 Experience in CRM, MarTech and customer lifecycle initiatives
 * 🤝 Worked with Marketing, Product, Technology, Growth and Development teams
 * 📝 Conducted 40+ stakeholder workshops
@@ -34,9 +34,7 @@ I have experience in requirements gathering, stakeholder collaboration, customer
 
 Portfolio projects covering:
 
-* 📊 MarTech Campaign Optimization & Customer Lifecycle Transformation
-* 🛒 E-commerce Conversion & Customer Experience Improvement
-* 💰 Finance Revenue Forecasting & Month-End Controls
+* 📊 MarTech Campaign Optimization & CRM Funnel Transformation
 
 > Portfolio datasets and case-study scenarios are synthetic and do not contain confidential employer or client information.
 
